@@ -1,0 +1,13 @@
+flask
+pdfplumber
+langchain_mistralai
+langchain_community
+langchain
+python-dotenv
+gunicorn
+faiss-cpu
+pdfminer.six
+gunicorn
+pymongo
+pytz
+flask_cors
